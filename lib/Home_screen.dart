@@ -7,7 +7,7 @@ class Home_Screen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Container(
-        color: Colors.orange,
+        color: Colors.pink,
       ),
     );
   }
